@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.stonecj.utils.redis4search.springboot.Redis4SearchAutoConfiguration
